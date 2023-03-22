@@ -1,0 +1,179 @@
+[
+    {
+        "id": "1",
+        "img": "https://i.ibb.co/55vPjCk/LPG-Auto-Gas-Station-1.jpg",
+        "title": "LPG Auto Gas Station",
+        "specification": [
+            "Tank Type: Horizontal",
+            "Capacity: 10000-20000 liter",
+            "Design Temp: 40deg C to +50Deg C",
+            "Design Pressure: 17.5 bar",
+            "Test Pressure: 26.5 bar",
+            "Dispenser: Double Hose ",
+            "Dispenser Type: PD Meter/Massflow",
+            "Calibration: Electrical and Mechanical",
+            "Pump Capacity: 70-120 L/min",
+            "Pump Type: Turbine/Multistage"
+        ],
+        "stock": "Ready Stock"
+    },
+    {
+        "id": "2",
+        "img": "https://i.ibb.co/wzFpNMr/LPG-autogas-storage-tank.jpg",
+        "title": "LPG Auto Gas Storage Tank",
+        "specification": [
+            "Capacity: 10,000L, 20000L & 40000L",
+            "Standard: Europian (EN13445)/ASME/BG150",
+            "Tank Type: Munded/Underground/Overground",
+            "Working pressure: 10Bar",
+            "Design pressure: 17Bar",
+            "Country of origin: Italy/Turkey/China"
+           
+        ],
+        "stock": "Ready Stock"
+    },
+    {
+        "id": "3",
+        "img": "https://i.ibb.co/0jZSQHW/LPG-conv-kit-sequential-type.jpg",
+        "title": "LPG Conversion Kits",
+        "specification": [
+            "Tank Type: Horizontal",
+            "Capacity: 10000-20000 liter",
+            "Design Temp: 40deg C to +50Deg C",
+            "Design Pressure: 17.5 bar",
+            "Test Pressure: 26.5 bar",
+            "Dispenser: Double Hose ",
+            "Dispenser Type: PD Meter/Massflow",
+            "Calibration: Electrical and Mechanical",
+            "Pump Capacity: 70-120 L/min",
+            "Pump Type: Turbine/Multistage"
+        ],
+        "stock": "Ready Stock"
+    },
+    {
+        "id": "4",
+        "img": "https://i.ibb.co/55vPjCk/LPG-Auto-Gas-Station-1.jpg",
+        "title": "LPG Auto Gas Station",
+        "specification": [
+            "Tank Type: Horizontal",
+            "Capacity: 10000-20000 liter",
+            "Design Temp: 40deg C to +50Deg C",
+            "Design Pressure: 17.5 bar",
+            "Test Pressure: 26.5 bar",
+            "Dispenser: Double Hose ",
+            "Dispenser Type: PD Meter/Massflow",
+            "Calibration: Electrical and Mechanical",
+            "Pump Capacity: 70-120 L/min",
+            "Pump Type: Turbine/Multistage"
+        ],
+        "stock": "Ready Stock"
+    },
+    {
+        "id": "5",
+        "img": "https://i.ibb.co/55vPjCk/LPG-Auto-Gas-Station-1.jpg",
+        "title": "LPG Auto Gas Station",
+        "specification": [
+            "Tank Type: Horizontal",
+            "Capacity: 10000-20000 liter",
+            "Design Temp: 40deg C to +50Deg C",
+            "Design Pressure: 17.5 bar",
+            "Test Pressure: 26.5 bar",
+            "Dispenser: Double Hose ",
+            "Dispenser Type: PD Meter/Massflow",
+            "Calibration: Electrical and Mechanical",
+            "Pump Capacity: 70-120 L/min",
+            "Pump Type: Turbine/Multistage"
+        ],
+        "stock": "Ready Stock"
+    },
+    {
+        "id": "6",
+        "img": "https://i.ibb.co/55vPjCk/LPG-Auto-Gas-Station-1.jpg",
+        "title": "LPG Auto Gas Station",
+        "specification": [
+            "Tank Type: Horizontal",
+            "Capacity: 10000-20000 liter",
+            "Design Temp: 40deg C to +50Deg C",
+            "Design Pressure: 17.5 bar",
+            "Test Pressure: 26.5 bar",
+            "Dispenser: Double Hose ",
+            "Dispenser Type: PD Meter/Massflow",
+            "Calibration: Electrical and Mechanical",
+            "Pump Capacity: 70-120 L/min",
+            "Pump Type: Turbine/Multistage"
+        ],
+        "stock": "Ready Stock"
+    },
+    {
+        "id": "7",
+        "img": "https://i.ibb.co/55vPjCk/LPG-Auto-Gas-Station-1.jpg",
+        "title": "LPG Auto Gas Station",
+        "specification": [
+            "Tank Type: Horizontal",
+            "Capacity: 10000-20000 liter",
+            "Design Temp: 40deg C to +50Deg C",
+            "Design Pressure: 17.5 bar",
+            "Test Pressure: 26.5 bar",
+            "Dispenser: Double Hose ",
+            "Dispenser Type: PD Meter/Massflow",
+            "Calibration: Electrical and Mechanical",
+            "Pump Capacity: 70-120 L/min",
+            "Pump Type: Turbine/Multistage"
+        ],
+        "stock": "Ready Stock"
+    },
+    {
+        "id": "8",
+        "img": "https://i.ibb.co/55vPjCk/LPG-Auto-Gas-Station-1.jpg",
+        "title": "LPG Auto Gas Station",
+        "specification": [
+            "Tank Type: Horizontal",
+            "Capacity: 10000-20000 liter",
+            "Design Temp: 40deg C to +50Deg C",
+            "Design Pressure: 17.5 bar",
+            "Test Pressure: 26.5 bar",
+            "Dispenser: Double Hose ",
+            "Dispenser Type: PD Meter/Massflow",
+            "Calibration: Electrical and Mechanical",
+            "Pump Capacity: 70-120 L/min",
+            "Pump Type: Turbine/Multistage"
+        ],
+        "stock": "Ready Stock"
+    },
+    {
+        "id": "9",
+        "img": "https://i.ibb.co/55vPjCk/LPG-Auto-Gas-Station-1.jpg",
+        "title": "LPG Auto Gas Station",
+        "specification": [
+            "Tank Type: Horizontal",
+            "Capacity: 10000-20000 liter",
+            "Design Temp: 40deg C to +50Deg C",
+            "Design Pressure: 17.5 bar",
+            "Test Pressure: 26.5 bar",
+            "Dispenser: Double Hose ",
+            "Dispenser Type: PD Meter/Massflow",
+            "Calibration: Electrical and Mechanical",
+            "Pump Capacity: 70-120 L/min",
+            "Pump Type: Turbine/Multistage"
+        ],
+        "stock": "Ready Stock"
+    },
+    {
+        "id": "10",
+        "img": "https://i.ibb.co/55vPjCk/LPG-Auto-Gas-Station-1.jpg",
+        "title": "LPG Auto Gas Station",
+        "specification": [
+            "Tank Type: Horizontal",
+            "Capacity: 10000-20000 liter",
+            "Design Temp: 40deg C to +50Deg C",
+            "Design Pressure: 17.5 bar",
+            "Test Pressure: 26.5 bar",
+            "Dispenser: Double Hose ",
+            "Dispenser Type: PD Meter/Massflow",
+            "Calibration: Electrical and Mechanical",
+            "Pump Capacity: 70-120 L/min",
+            "Pump Type: Turbine/Multistage"
+        ],
+        "stock": "Ready Stock"
+    }
+]
